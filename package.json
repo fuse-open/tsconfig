@@ -1,0 +1,18 @@
+{
+  "name": "@fuse-open/tsconfig",
+  "version": "2.7.0",
+  "description": "A base TSConfig for working with FuseJS",
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuse-open/tsconfig.git"
+  },
+  "author": "Fuse Open",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuse-open/tsconfig/issues"
+  },
+  "homepage": "https://github.com/fuse-open/tsconfig#readme"
+}

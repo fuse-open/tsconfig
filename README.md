@@ -1,2 +1,3 @@
 # tsconfig
-A base TSConfig for working with Fuse Open
+
+A base TSConfig for working with FuseJS
